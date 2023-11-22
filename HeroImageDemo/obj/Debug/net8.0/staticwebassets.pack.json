@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\installer\\RiderProjects\\HeroImageDemo\\HeroImageDemo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HeroImageDemo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HeroImageDemo.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\installer\\RiderProjects\\HeroImageDemo\\HeroImageDemo\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\installer\\RiderProjects\\HeroImageDemo\\HeroImageDemo\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\installer\\RiderProjects\\HeroImageDemo\\HeroImageDemo\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\installer\\RiderProjects\\HeroImageDemo\\HeroImageDemo\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\installer\\RiderProjects\\HeroImageDemo\\HeroImageDemo\\wwwroot\\images\\photographer.jpg",
+      "PackagePath": "staticwebassets\\images\\photographer.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HeroImageDemo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HeroImageDemo.props",
+      "PackagePath": "build\\HeroImageDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HeroImageDemo.props",
+      "PackagePath": "buildMultiTargeting\\HeroImageDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HeroImageDemo.props",
+      "PackagePath": "buildTransitive\\HeroImageDemo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
